@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 600px) {
+  body {
+    width: 100vw;
+  }
+}
+
+@media (max-width: 443px) {
+  .footer p {
+    text-align: center;
+  }
+}
